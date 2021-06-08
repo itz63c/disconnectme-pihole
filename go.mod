@@ -1,3 +1,3 @@
-module github.com/erkexzcx/disconnectme-pihole
+module github.com/itz63c/disconnectme-pihole
 
 go 1.15
